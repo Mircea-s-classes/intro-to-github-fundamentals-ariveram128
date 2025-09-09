@@ -109,4 +109,4 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 
 ## ✅ Assignment Completed
 
-I have completed this GitHub fundamentals assignment!
+I have completed this GitHub fundamentals assignment! Additionally, I have created a new markdown file in this repository reflecting on what I learned and what I am still confused about.
